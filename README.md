@@ -1,14 +1,14 @@
 # Hi there, I'm Kabeleswar P E 👋
 ### 📊 Data Science Enthusiast | Data Analyst | Data Engineer 
 
-I’m an **Integrated MSc Data Science** student passionate about transforming data into meaningful insights. My focus is on **Machine Learning**, **Data Analysis**, and **Deep Learning** to drive data-driven solutions.
+I’m an **Integrated MSc Data Science** student passionate about transforming data into meaningful insights. My focus is on **Machine Learning**, **Data Analysis**, **Data Engineering**, and **Deep Learning** to drive data-driven solutions.
 
 ---
 
 ## 🌟 About Me
 - 🎓 Currently pursuing **Integrated MSc Data Science** at **Amrita Vishwa Vidyapeetham, Coimbatore**.
-- 🔍 Specializing in **Machine Learning**, **Data Visualization**, and **Cloud Computing**.
-- 💬 Ask me about **Python**, **Power BI**, or **Data Cleaning Techniques**.
+- 🔍 Specializing in **Machine Learning**, **Data Visualization**, and **Data Engineering**.
+- 💬 Ask me about **Data science**, **Power BI**, or **Data Cleaning Techniques**.
 - 🏆 Published research on **Fashion Design Transformation using Text-Guided Diffusion Models** in the **4th International Conference on Sentiment Analysis and Deep Learning**.
 - 📬 Reach me via [**LinkedIn**](https://www.linkedin.com/in/your-profile/) or [**Gmail**](mailto:your.email@gmail.com).
 
