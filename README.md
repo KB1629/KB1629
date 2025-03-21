@@ -32,6 +32,7 @@ I’m an **Integrated MSc Data Science** student passionate about transforming d
 </div>
 
 ---
+![Snake animation](https://github.com/KB1629/KB1629/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Stats
 <p align="center">
