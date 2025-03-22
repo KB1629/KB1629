@@ -61,7 +61,7 @@ I’m an **Integrated MSc Data Science** student passionate about transforming d
 -  **[Fish Species Detection using Deep Learning](https://github.com/KB1629/Fish-Detection)**  
    *Achieved **99.94% accuracy** using MobileNetV2.*
 
--  **[Bank Loan Prediction Analysis]([https://github.com/KB1629/Bank-Loan-Analysis](https://github.com/KB1629/Data-analysis---project-))**  
+-  **[Bank Loan Prediction Analysis]([https://github.com/KB1629/Bank-Loan-Analysis])**  
    *Enhanced data quality and identified patterns for improved loan approvals.*
 
 ---
