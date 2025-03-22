@@ -6,11 +6,11 @@ I’m an **Integrated MSc Data Science** student passionate about transforming d
 ---
 
 ## 🌟 About Me
-- 🎓 Currently pursuing **Integrated MSc Data Science** at **Amrita Vishwa Vidyapeetham, Coimbatore**.
-- 🔍 Specializing in **Machine Learning**, **Data Visualization**, and **Data Engineering**.
-- 💬 Ask me about **Data science**, **Power BI**, or **Data Cleaning Techniques**.
-- 🏆 Published research on **Fashion Design Transformation using Text-Guided Diffusion Models** in the **4th International Conference on Sentiment Analysis and Deep Learning**.
-- 📬 Reach me via [**LinkedIn**](https://www.linkedin.com/in/your-profile/) or [**Gmail**](mailto:your.email@gmail.com).
+- Currently pursuing **Integrated MSc Data Science** at **Amrita Vishwa Vidyapeetham, Coimbatore**.
+-  Specializing in **Machine Learning**, **Data Visualization**, and **Data Engineering**.
+-  Ask me about **Data science**, **Power BI**, or **Data Cleaning Techniques**.
+-  Published research on **Fashion Design Transformation using Text-Guided Diffusion Models** in the **4th International Conference on Sentiment Analysis and Deep Learning**.
+-  Reach me via [**LinkedIn**](https://www.linkedin.com/in/your-profile/) or [**Gmail**](mailto:your.email@gmail.com).
 
 ---
 
@@ -43,25 +43,25 @@ I’m an **Integrated MSc Data Science** student passionate about transforming d
 ---
 
 ## 💻 Featured Projects
-### 🔬 **Research Projects**
-- 🧥 **[Fashion Design Transformation using Text-Guided Diffusion Models](https://github.com/your-username/Fashion-Design-Transformation)**  
+###  **Research Projects**
+-  **[Fashion Design Transformation using Text-Guided Diffusion Models](https://github.com/your-username/Fashion-Design-Transformation)**  
    *Published in the 4th International Conference on Sentiment Analysis and Deep Learning.*
 
-- 🔍 **Explainable AI Framework for IoT Network Intrusion Detection** *(Under Review)*  
+- **Explainable AI Framework for IoT Network Intrusion Detection** *(Under Review)*  
 
 ---
 
 ### 🔧 **Data Analytics & Engineering Projects**
-- 📊 **[HR Analysis Dashboard (Power BI)](https://github.com/KB1629/HR-Analysis)**  
+-  **[HR Analysis Dashboard (Power BI)](https://github.com/KB1629/HR-Analysis)**  
    *Visualized key HR metrics to identify workforce trends and improve decision-making.*
 
-- ⚙️ **[Automated ETL Pipeline with Apache NiFi](https://github.com/KB1629/ETL-Pipeline-NiFi)**  
+-  **[Automated ETL Pipeline with Apache NiFi](https://github.com/KB1629/ETL-Pipeline-NiFi)**  
    *Built a dynamic data pipeline integrated with LLM for data transformation.*
 
-- 🐟 **[Fish Species Detection using Deep Learning](https://github.com/KB1629/Fish-Detection)**  
+-  **[Fish Species Detection using Deep Learning](https://github.com/KB1629/Fish-Detection)**  
    *Achieved **99.94% accuracy** using MobileNetV2.*
 
-- 🏦 **[Bank Loan Prediction Analysis](https://github.com/KB1629/Bank-Loan-Analysis)**  
+-  **[Bank Loan Prediction Analysis](https://github.com/KB1629/Bank-Loan-Analysis)**  
    *Enhanced data quality and identified patterns for improved loan approvals.*
 
 ---
