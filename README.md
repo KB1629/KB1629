@@ -52,19 +52,19 @@ I’m an **Integrated MSc Data Science** student passionate about transforming d
 ---
 
 ### 🔧 **Data Analytics & Engineering Projects**
--  **[HR Analysis Dashboard (Power BI)](https://github.com/KB1629/HR-Analysis)**  
+-  **[HR Analysis Dashboard (Power BI)](https://github.com/KB1629/HR-DASHBOARD-POWERBI)**  
    *Visualized key HR metrics to identify workforce trends and improve decision-making.*
 
--  **[Automated ETL Pipeline with Apache NiFi](https://github.com/KB1629/ETL-Pipeline-NiFi)**  
+-  **[Automated ETL Pipeline with Apache NiFi](https://github.com/KB1629/Automated-ETL-Pipeline-using-Apache-NiFi)**  
    *Built a dynamic data pipeline integrated with LLM for data transformation.*
 
--  **[Fish Species Detection using Deep Learning](https://github.com/KB1629/Fish-Detection)**  
+-  **[Fish Species Detection using Deep Learning](https://github.com/KB1629/Fish_classification)**  
    *Achieved **99.94% accuracy** using MobileNetV2.*
 
--  **[Bank Loan Prediction Analysis]([https://github.com/KB1629/Bank-Loan-Analysis])**  
+-  **[Bank Loan Prediction Analysis](https://github.com/KB1629/Data-analysis---project-)**  
    *Enhanced data quality and identified patterns for improved loan approvals.*
 
----
+  ---
 
 ## 🏆 Certifications
 - **100 Days of Code - Python Pro Bootcamp** (Coursera)  
