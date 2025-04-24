@@ -10,7 +10,7 @@ I’m an **Integrated MSc Data Science** student passionate about transforming d
 -  Specializing in **Machine Learning**, **Data Visualization**, and **Data Engineering**.
 -  Ask me about **Data science**, **Power BI**, or **Data Cleaning Techniques**.
 -  Published research on **Fashion Design Transformation using Text-Guided Diffusion Models** in the **4th International Conference on Sentiment Analysis and Deep Learning**.
--  Reach me via [**LinkedIn**](https://www.linkedin.com/in/your-profile/) or [**Gmail**](kabeleswar16@gmail.com).
+-  Reach me via [**LinkedIn**](www.linkedin.com/in/kabeleswar) or [**Gmail**](kabeleswar16@gmail.com).
 
 ---
 
