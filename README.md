@@ -1,5 +1,5 @@
 # Hi there, I'm Kabeleswar 
-### 📊 Data Science Enthusiast | Data Analyst | Data Engineer 
+### 📊 Data Science Enthusiast | AI Engineer
 
 I’m an **Integrated MSc Data Science** student passionate about transforming data into meaningful insights. My focus is on **Machine Learning**, **Data Analysis**, **Data Engineering**, and **Deep Learning** to drive data-driven solutions.
 
